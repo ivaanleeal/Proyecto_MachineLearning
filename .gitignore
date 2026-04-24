@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local datasets (too large for regular GitHub push)
+data/*.csv
+
 # IPython
 profile_default/
 ipython_config.py
